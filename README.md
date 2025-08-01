@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Milu Manoj</h1>
 <h3 align="center">CSE Student | Interested in Cybersecurity, Ethical Hacking & Circuit Design</h3>
 
