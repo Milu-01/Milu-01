@@ -19,7 +19,7 @@
 
 - 🐍 Python  
 - 💻 C Programming  
-- 🔐 Basics of Ethical Hacking  
+- 🔐 Ethical Hacking  
 - 📡 Network Fundamentals  
 - 📐 EasyEDA (circuit design & simulation)  
 - 🖥️ Visual Studio Code  
