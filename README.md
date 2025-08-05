@@ -6,7 +6,7 @@
 ### 🙋‍♂️ About Me
 
 - 💻 Computer Science Engineering student from Kerala  
-- 🧠 Learning Python, C programming, and cybersecurity basics  
+- 🧠 Learning Python, C programming, and cybersecurity   
 - 🔐 muLearn District ID Cybersecurity Lead  
 - ⚡ Exploring circuit design and simulation using EasyEDA  
 - 💡 I enjoy solving problems and exploring new technology  
